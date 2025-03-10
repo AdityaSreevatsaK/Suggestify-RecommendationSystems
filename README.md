@@ -6,7 +6,7 @@ covers collaborative filtering, content-based methods, and hybrid approaches, fo
 solutions for personalised recommendations across various domains.
 
 ## 1. Collaborative Filtering
-
+✦ [Electronics Ratings](a.%20Jupyter%20Notebooks/Electronics%20Ratings%20-%20Collaborative%20Filtering.ipynb)<br />
 
 ## 2. Content-Based Filtering
 
