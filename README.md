@@ -7,6 +7,7 @@ solutions for personalised recommendations across various domains.
 
 ## 1. Collaborative Filtering
 ✦ [Electronics Ratings](a.%20Jupyter%20Notebooks/Electronics%20Ratings%20-%20Collaborative%20Filtering.ipynb)<br />
+✦ [Book Recommendations](a.%20Jupyter%20Notebooks/Book%20Recommendations%20-%20Collaborative%20Filtering%20-%20KNN%20With%20Means.ipynb)<br />
 
 ## 2. Content-Based Filtering
 
