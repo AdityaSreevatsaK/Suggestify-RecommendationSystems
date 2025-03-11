@@ -21,3 +21,4 @@ solutions for personalised recommendations across various domains.
 
 ## 5. Popularity & Heuristic-Based Recommendations
 ✦ [Electronics Ratings](a.%20Jupyter%20Notebooks/Electronics%20Ratings%20-%20Popularity%20Based%20Recommendation%20System.ipynb)<br />
+✦ [Book Recommendations](a.%20Jupyter%20Notebooks/Book%20Recommendations%20-%20Popularity%20Based%20Recommendation%20System.ipynb)<br />
