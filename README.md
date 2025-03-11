@@ -17,6 +17,7 @@ solutions for personalised recommendations across various domains.
 ## 4. Association Rule-Based Recommendations
 ### 4.1 Market Basket Analysis
 ✦ [Online Retail Store - France](a.%20Jupyter%20Notebooks/Online%20Retail%20Store%20-%20Market%20Basket%20Analysis.ipynb)<br />
+✦ [Super Store Analysis](a.%20Jupyter%20Notebooks/Super%20Store%20-%20Association%20Rule%20Mining.ipynb)<br />
 
 ## 5. Popularity & Heuristic-Based Recommendations
 ✦ [Electronics Ratings](a.%20Jupyter%20Notebooks/Electronics%20Ratings%20-%20Popularity%20Based%20Recommendation%20System.ipynb)<br />
