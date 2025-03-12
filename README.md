@@ -13,7 +13,7 @@ solutions for personalised recommendations across various domains.
 ✦ [Movie Recommendations](a.%20Jupyter%20Notebooks/Movie%20Recommendation%20-%20Content%20Based%20Recommendation%20System.ipynb)<br />
 
 ## 3. Hybrid Recommendation Systems
-
+✦ [Movie Recommendations](..) <br />
 
 ## 4. Association Rule-Based Recommendations
 ### 4.1 Market Basket Analysis
