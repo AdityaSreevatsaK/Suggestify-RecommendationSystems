@@ -10,7 +10,7 @@ solutions for personalised recommendations across various domains.
 ✦ [Book Recommendations](a.%20Jupyter%20Notebooks/Book%20Recommendations%20-%20Collaborative%20Filtering%20-%20KNN%20With%20Means.ipynb)<br />
 
 ## 2. Content-Based Filtering
-
+✦ [Movie Recommendations](a.%20Jupyter%20Notebooks/Movie%20Recommendation%20-%20Content%20Based%20Recommendation%20System.ipynb)<br />
 
 ## 3. Hybrid Recommendation Systems
 
