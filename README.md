@@ -11,6 +11,7 @@ solutions for personalised recommendations across various domains.
 
 ## 2. Content-Based Filtering
 ✦ [Movie Recommendations](a.%20Jupyter%20Notebooks/Movie%20Recommendation%20-%20Content%20Based%20Recommendation%20System.ipynb)<br />
+✦ [Article Recommendation](a.%20Jupyter%20Notebooks/Article%20Recommendation%20-%20Content%20Based%20Recommendation%20System.ipynb)<br />
 
 ## 3. Hybrid Recommendation Systems
 ✦ [Movie Recommendations](..) <br />
